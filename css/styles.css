@@ -1,0 +1,12 @@
+input#things {
+  width: 20%;
+}
+
+.well {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+h1 {
+  text-align: center;
+}
